@@ -7,13 +7,15 @@
 </ul>
 
 # Topik Penelitian
-## Penerapan Algoritma Content-Based Filtering dan Colaborative Filtering Untuk Sistem Rekomendasi Wisata Surabaya
+## Analisis Peforma Algoritma Gaussian Naive Bayes dan K-Nearest Neighbor Untuk Klasifikasi Penyakit Anemia
 ### Problem Statement
-Covid-19 atau Coronavirus 2019 merupakan sebuah virus yang menyerang manusia serta penularannya begitu cepat. Pandemi tersebut juga mengakibatkan dampak pada seluruh dunia serta seluruh kegiatan masyarakat. Salah satu kegiatan yang terkena dampak tersebut yaitu kegiatan perekonomian serta pariwisata [1]. Selama dua tahun sektor pariwisata tidak bisa berjalan dengan semestinya dikarenakan pandemi yang memaksa pemerintahan untuk membuat peraturan agar masyarakat tidak berkeliaran atau berkegiatan diluar rumah. Maka dari itu pariwisata pada dua tahun lalu yaitu pada tahun 2020 dan 2021 mengalami penurunan pengunjung. tetapi berbeda dengan tahun ini pandemi covid-19 sudah semakin melandai. Semua negara sudah mulai memperbaiki perekonomian negara masing-masing. Begitu pun Indonesia juga mulai memperbaiki perekonomian serta pariwisata yang terkena dampak pandemi kemarin, dengan membuka pariwisata serta merenggangkan peraturannya. Rekomendasi wisata sekarang juga sangat berguna untuk pengunjung wisata diluar kota tersebut, karena rekomendasi wisata bisa merekomendasikan wisata dengan rating wisata yang tinggi. Maka dari itu terdapat proyek mechine learning Sistem Rekomendasi Wisata Surabaya.
+Penyakit anemia merupakan masalah kesehatan global yang memerlukan pendekatan yang efektif dalam diagnosis dan klasifikasinya. Dalam konteks ini, analisis performa algoritma menjadi krusial untuk memilih metode klasifikasi yang paling efisien dan akurat. Gaussian Naive Bayes dan K-Nearest Neighbors (KNN) merupakan dua metode klasifikasi yang umum digunakan dalam dunia medis. Namun, belum ada penelitian mendalam yang membandingkan secara rinci performa keduanya dalam klasifikasi penyakit anemia.
+
+Tujuan penelitian ini adalah untuk menyelidiki dan membandingkan efektivitas Gaussian Naive Bayes dan KNN dalam mengklasifikasikan penyakit anemia berdasarkan data klinis yang tersedia. Beberapa aspek yang akan dievaluasi meliputi akurasi, presisi, recal, specificity dan f1-score. Analisis mendalam terhadap performa kedua algoritma ini diharapkan dapat memberikan pandangan yang lebih komprehensif terkait keunggulan dan kelemahan masing-masing algoritma dalam konteks klasifikasi penyakit anemia.
 
 ### Research Question
-- Berdasarkan data mengenai pengguna, bagaimana membuat suatu sistem rekomendasi wisata yang dipersonalisasi dengan teknik content-based filtering?
-- Dengan dataset rating yang tersedia, Bagaimana cara mendapatkan rekomendasi wisata yang mungkin disukai pengguna serta pengguna belum pernah mengunjungi wisata tersebut?
+- Berdasarkan dataset penyakit anemia, bagaimana menerapkan algoritma Gaussian Naive Bayes dan KNN untuk klasifikasi penyakit anemia.
+- Bagaimana analisis peforma dari kedua algoritma tersebut dengan membandingkan beberapa aspek yang meliputi akurasi, presisi, recal, specificity, dan f1-score.
 ### Literature Review
-- Virgiant, R. B., & Rochmawati, N. (2022). Implementasi Metode MOORA Untuk Penentuan Wisata Surabaya Terbaik Di Masa Pandemi COVID-19. Journal of Informatics and Computer Science (JINACS), 3(03), 267-277.
-- Aprianto, A. (2022). TA: Penerapan Algoritma Content-Based Filtering untuk Rekomendasi Destinasi Wisata pada Aplikasi Picnicker (Doctoral dissertation, Universitas Dinamika).
+- Ainurrohmah, A., & Wiyanti, D. T. (2023). Analisis Performa Algoritma Decision Tree, Naive Bayes, K-Nearest Neighbor untuk Klasifikasi Zona Daerah Risiko Covid-19 di Indonesia. Jurnal Teknologi Informasi dan Ilmu Komputer, 10(1), 115-122.
+- Islam, M. A., Majumder, M. Z. H., & Hussein, M. A. (2023). Chronic kidney disease prediction based on machine learning algorithms. Journal of Pathology Informatics, 14, 100189.
