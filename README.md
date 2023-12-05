@@ -16,6 +16,11 @@ Tujuan penelitian ini adalah untuk menyelidiki dan membandingkan efektivitas Gau
 ### Research Question
 - Berdasarkan dataset penyakit anemia, bagaimana menerapkan algoritma Gaussian Naive Bayes dan KNN untuk klasifikasi penyakit anemia.
 - Bagaimana analisis peforma dari kedua algoritma tersebut dengan membandingkan beberapa aspek yang meliputi akurasi, presisi, recal, specificity, dan f1-score.
+
+### Dataset
+Link sumber dataset : https://www.kaggle.com/datasets/biswaranjanrao/anemia-dataset
+
+  
 ### Literature Review
 - Ainurrohmah, A., & Wiyanti, D. T. (2023). Analisis Performa Algoritma Decision Tree, Naive Bayes, K-Nearest Neighbor untuk Klasifikasi Zona Daerah Risiko Covid-19 di Indonesia. Jurnal Teknologi Informasi dan Ilmu Komputer, 10(1), 115-122.
 - Islam, M. A., Majumder, M. Z. H., & Hussein, M. A. (2023). Chronic kidney disease prediction based on machine learning algorithms. Journal of Pathology Informatics, 14, 100189.
