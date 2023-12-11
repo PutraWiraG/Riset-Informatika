@@ -22,8 +22,11 @@ Link sumber dataset : https://www.kaggle.com/datasets/biswaranjanrao/anemia-data
 
 ### Hasil Akurasi
 -> Hasil Akurasi KNN
+<br>
 ![knn](https://github.com/PutraWiraG/Riset-Informatika/assets/108270264/2ef1344b-65db-4fb8-afe0-892117c44df1)
+<br>
 -> Hasil Akurasi Guassian Naive Bayes
+<br>
 ![nb](https://github.com/PutraWiraG/Riset-Informatika/assets/108270264/1c7f3cea-520b-4ecb-bf9b-0bbc7bd2bf47)
 
   
