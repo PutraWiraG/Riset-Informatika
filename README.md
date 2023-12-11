@@ -20,6 +20,12 @@ Tujuan penelitian ini adalah untuk menyelidiki dan membandingkan efektivitas Gau
 ### Dataset
 Link sumber dataset : https://www.kaggle.com/datasets/biswaranjanrao/anemia-dataset
 
+### Hasil Akurasi
+-> Hasil Akurasi KNN
+![knn](https://github.com/PutraWiraG/Riset-Informatika/assets/108270264/2ef1344b-65db-4fb8-afe0-892117c44df1)
+-> Hasil Akurasi Guassian Naive Bayes
+![nb](https://github.com/PutraWiraG/Riset-Informatika/assets/108270264/1c7f3cea-520b-4ecb-bf9b-0bbc7bd2bf47)
+
   
 ### Literature Review
 - Ainurrohmah, A., & Wiyanti, D. T. (2023). Analisis Performa Algoritma Decision Tree, Naive Bayes, K-Nearest Neighbor untuk Klasifikasi Zona Daerah Risiko Covid-19 di Indonesia. Jurnal Teknologi Informasi dan Ilmu Komputer, 10(1), 115-122.
